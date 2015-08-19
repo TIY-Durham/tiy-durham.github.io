@@ -20,7 +20,7 @@ Hello and welcome to The Iron Yard in Durham, located on the American Tobacco Ca
 
 ##### Front End Engineering (HTML, CSS, JavaScript)
 
-> Coming soon!
+* [2015 -- FALL](https://github.com/TIY-Durham/2015-FALL-FEE) -- [David Rogers](https://github.com/al-the-x)
 
 ##### Back End Engineering (Ruby on Rails)
 
