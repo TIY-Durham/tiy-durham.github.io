@@ -1,3 +1,8 @@
+---
+permalink: index.html
+layout: default
+---
+
 ### Welcome to [The Iron Yard](http://theironyard.com) family!
 
 Hello and welcome to The Iron Yard in Durham, located on the American Tobacco Campus in the American Underground. This site is designed to provide a little introductory information to the 12-week classes in Front End Engineering with JavaScript (FEE), Back End Engineering with Ruby-on-Rails (RoR), and Data Science with Python (Py?). We've put together some prep-work for the classes, contact information for our Campus Director and instructors, and additional resources for upcoming graduates and recent alumni. We hope you find it useful and help us improve it! Thanks,
