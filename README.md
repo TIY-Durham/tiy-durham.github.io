@@ -2,7 +2,7 @@
 
 Hello and welcome to The Iron Yard in Orlando, located in the Orlando Exchange at 101 S Garland Ave. This site is designed to provide a little introductory information to the 12-week classes in Front End Engineering (FEE) with JavaScript, Back End Engineering with Ruby-on-Rails (RoR), and Mobile App Engineering with iOS (iOS). We've put together some prep-work for the classes, contact information for our Campus Director and instructors, and additional resources for upcoming graduates and recent alumni. We hope you find it useful and help us improve it! Thanks,
 
-###### The Orlando Team
+###### -- The Durham Team
 
 #### General Rules of Conduct
 
@@ -21,6 +21,6 @@ Hello and welcome to The Iron Yard in Orlando, located in the Orlando Exchange a
 
 > Coming soon!
 
-##### Data Science & Analysis (Python)
+##### Data Science (Python)
 
 > Coming soon!
